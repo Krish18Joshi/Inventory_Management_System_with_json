@@ -1,1 +1,3 @@
 # Inventory_Management_System_with_json
+<p>Efficiently manage and organize your inventory with this Python-based Inventory Management System. Leveraging the power of JSON data, this project provides a streamlined solution for tracking, updating, and retrieving information about your stock. Seamlessly handle product details, quantities, and transactions with a user-friendly interface, while harnessing the flexibility and simplicity of JSON for data storage. Enhance your inventory control and make informed decisions with the Inventory Management System - a versatile tool for businesses of all sizes.</p>
+![Screenshot 2024-01-28 at 5 49 55 PM](https://github.com/Krish18Joshi/Inventory_Management_System_with_json/assets/99706585/831e8601-eef2-465a-8e1f-fa4975997c9b)
